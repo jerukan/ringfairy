@@ -28,5 +28,12 @@
         "url": "https://atarbinian.com",
         "rss": "https://atarbinian.com/blog/index.xml",
         "owner": "atar13"
+    },
+	{
+        "name": "jerukan",
+        "slug": "jerukan",
+        "about": "personal site",
+        "url": "https://jerukan.github.io/",
+        "owner": "jerukan"
     }
 ]
